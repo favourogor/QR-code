@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(181, 214, 224);
+}
+.container {
+    background-color: white;
+    width: 250px;
+    height: 400px;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 180px;
+}
+img {
+    width: 230px;
+    height: 230px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+.improve {
+   padding: 0px 30px;
+   box-sizing: border-box;
+   font-size: 15px;
+   text-align: center;
+}    
+.scan {
+    text-align: center;
+    padding: 0px 30px;
+    box-sizing: border-box;
+    font-size: 15px;
+    color: gray;
+}
